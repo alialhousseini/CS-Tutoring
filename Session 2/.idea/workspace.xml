@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4e41807-05a4-41ed-aedf-d1761b656821" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Other/FYP Rim/Testcode3-HOG/Testcode3-HOG/HOG-master/.idea/HOG-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KNN.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../computer-sciences-master/Python/exams/discografia/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../computer-sciences-master/Python/exams/guess_who/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Ho795nAnqXgYHstXLQHIkZhD7X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../21-11-22" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4e41807-05a4-41ed-aedf-d1761b656821" name="Default Changelist" comment="" />
+      <created>1668939429389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668939429389</updated>
+    </task>
+    <servers />
+  </component>
+</project>

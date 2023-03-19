@@ -1,0 +1,5 @@
+10;12;Lunch with the boss
+17;09;Exam of Computer Science
+17;17;Meeting with department
+100;10;Doctor visit
+75;19;Chilling with friends

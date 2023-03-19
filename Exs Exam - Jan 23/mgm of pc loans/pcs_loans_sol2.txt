@@ -1,0 +1,72 @@
+def readfile(filename):
+    with open(filename,'r') as file:
+        data = file.readlines()
+        for i in range(len(data)):
+            data[i]=data[i].rstrip()
+
+    return data
+
+def readfile_reg(filename):
+    with open(filename,'r') as file:
+        data=file.readlines()
+        for i in range(len(data)):
+            data[i]=data[i].rstrip().split(':')
+    return data
+
+def main():
+    PCs=readfile('parcoPC.txt')
+    #print(PCs)
+    registrations= readfile_reg('registrazioni.txt')
+    #print(registrations)
+    ongoing_loans=[]
+    for pc in PCs:
+        filtered = list(filter(lambda x: x[0]==pc,registrations))
+        if len(filtered)%2 !=0:
+            ongoing_loans.append(filtered[-1])
+
+    ongoing_loans.sort(key=lambda x: int(x[1]))
+    #print(ongoing_loans)
+
+    # abc={}
+    # for i in range(len(ongoing_loans)):
+    #     if ongoing_loans[i][1] not in abc:
+    #         abc[ongoing_loans[i][1]]=[]
+    #     abc[ongoing_loans[i][1]].append(ongoing_loans[i][0])
+    #
+    # s=''
+    # for key in abc:
+    #     if len(abc[key])==1:
+    #         s=abc[key][0]
+    #     else:
+    #         for i in range(len(abc[key])):
+    #             s+=abc[key][i]+' '
+    #     print(f"{key}: {s}")
+    #     s=''
+    # print(abc)
+
+    flag=False
+    s=''
+    for i in range(len(ongoing_loans)):
+        s=ongoing_loans[i][1]+": "+ongoing_loans[i][0]
+        if flag:
+            flag=False
+            continue
+        for j in range(i+1,len(ongoing_loans)-1):
+            if ongoing_loans[i][1]==ongoing_loans[j][1]:
+                s+=", "+ongoing_loans[j][0]
+                flag = True
+        print(s)
+
+
+
+    pc_ongoing = list(map(lambda x: x[0],ongoing_loans))
+    #print(pc_ongoing)
+    x=set(PCs).difference(set(pc_ongoing))
+    #print(x)
+    for y in sorted(x):
+        print(y,end=' ')
+
+
+
+
+main()
