@@ -1,0 +1,829 @@
+fk_id_robot;severity;alarm_text
+2213487;4;Timer  1 Alarm: (162)
+2213885;2;TP reconnection successfully completed (3s)
+2213369;4;Power Source 1 not ready for start riveting, waiting for $IN[103] = True
+2212111;4;PWS1 Fault 374 Alimentatore master: La slitta caricatore1 non ha ragg
+2213369;4;PWS1 Fault 476 Alimentatore master: Sensore di prossimit… _Ricevitore
+2212111;4;PWS1 Fault 210 DDC: La curva di rivettatura giace al di sopra della c
+2213487;10;Power Contactor Status Fault
+2213369;4;PWS1 Fault 374 Alimentatore master: La slitta caricatore1 non ha ragg
+2214565;2;MISURA OXFORD RETURNS ERROR
+2213885;4;ALARM code received from system 1 ERROR 1 from $FMI[95]
+2213885;2;RS - Joint Space Limiting SET 1 activation: TRUE
+2213885;2;RS - Joint Space Limiting SET 1 activation: FALSE
+2213885;4;Vision system in alarm $IN[389] = ON
+2212894;11;ACP node 19  not connected
+2212894;11;ACP node 19 connected
+2212111;4;Timeout input magazine filling completed, waiting for $IN[115] = True
+2212894;11;ACP node 18 connected
+2212894;11;ACP node 18  not connected
+2213369;4;PWS1 Fault 204 DDC: Lunghezza rivetto misurata troppo ridotta
+2212111;4;PWS1 Fault 193 SIC: Protective circuit prior to plate thickness measu
+2213487;8;Power contactor  1 of the package  1 is not closed.Waiting $IN[49] = False
+2212111;11;Safety gate
+2212111;4;PWS1 Fault 196 SIC: Circuito di protezione durante la corsa di ritorn
+2212111;4;Filling station not ready for docking, waiting for $IN[110] = False
+2213369;4;PWS1 Fault 207 DDC: Corsa di punzonatura misurata insufficiente
+2213369;4;PWS1 Fault 217 DDC: Lunghezza rivetto misurata troppo grande
+2213487;4;Timer  1 Alarm: Min. allowed electrode force not reached (115-19)
+2212111;4;Power Source 1 not ready for start riveting, waiting for $IN[103] = True
+2213369;4;PWS1 Fault 48 Processo di alimentazione master: Timeout alimentazione
+2213369;4;PWS1 Fault 1 Processo di rivettatura: Timeout ciclo di alimentazione
+2213487;8;No water flow package  1 Flux 1 $IN[34]:=False
+2213487;4;Timer  1 Alarm: (80)
+2213369;4;PWS1 Fault 196 SIC: Circuito di protezione durante la corsa di ritorn
+2212894;11;ACP node 17  not connected
+2212894;11;ACP node 17 connected
+2212111;4;PWS1 Fault 218 DDC: Spessore lamiera misurato troppo grande
+2214565;10;Axis 8 Arm 1 I2T triggered
+2213369;4;PWS1 Fault 193 SIC: Protective circuit prior to plate thickness measu
+2212111;4;PWS1 Fault 48 Processo di alimentazione master: Timeout alimentazione
+2213487;8;Tip dresser not in rotation
+2213369;4;Timeout input magazine filling completed, waiting for $IN[115] = True
+2212111;4;PWS1 Fault 207 DDC: Corsa di punzonatura misurata insufficiente
+2212111;4;PWS1 Fault 1 Processo di rivettatura: Timeout ciclo di alimentazione
+2213369;11;CPU 1 interpolation overrun
+2213885;4;Vision system in alarm $IN[394] = ON
+2213487;11;CPU 1 interpolation overrun
+2212111;4;PWS1 Fault 476 Alimentatore master: Sensore di prossimit? _Ricevitore
+2213369;4;PWS1 Fault 460 Alimentatore master: La chiusura del caricatore non Š 
+2213487;8;Welding timer 1 not ready
+2212894;11;CPU 1 interpolation overrun
+2213885;4;The doser 1 has not completed the purgin procedure $IN[290] = OFF
+2213369;4;Filling station not ready for docking, waiting for $IN[110] = False
+2212111;11;CPU 1 interpolation overrun
+2212111;4;PWS1 Fault 228 DDC: nessun rivetto nel ricevitore
+2213885;10;Arm 1 error upon DRIVE ON
+2213885;10;Axis 8 Arm 1 - Homing not present
+2213369;4;PWS1 Fault 209 DDC: La curva di rivettatura giace al di sotto della c
+2213369;4;PWS1 Fault 228 DDC: nessun rivetto nel ricevitore
+2213369;4;PWS1 Fault 203 DDC: Spessore lamiera misurato troppo ridotto
+2212111;4;PWS1 Fault 460 Alimentatore master: La chiusura del caricatore non ? 
+2213369;4;Spindle in unknown position, waiting for $IN[104] = True
+2213885;4;Pump 2 fault temperature $IN[371] = OFF
+2213369;11;Safety gate
+2213885;2;TP reconnection successfully completed (2s)
+2212111;4;PWS1 Fault 217 DDC: Lunghezza rivetto misurata troppo grande
+2213369;4;PWS1 Fault 213 DDC: La curva di rivettatura Š pi— lunga della curva d
+2213487;10;Axis 8 Arm 1 persistent high current 
+2213369;4;PWS1 Fault 219 DDC: Segnale di misura della forza insufficiente
+2213487;4;Timer  1 Alarm: (94-255)
+2212894;2;<ST030R02> connected
+2213369;4;PWS1 Fault 210 DDC: La curva di rivettatura giace al di sopra della c
+2212111;4;PWS1 Fault 203 DDC: Spessore lamiera misurato troppo ridotto
+2212894;10;<ST030R02> not connected
+2214565;2;TP connection successfully completed
+2213885;2;<GL_VISION_1> connected
+2213487;10;RACK[1] FTC di sicurezza Intervenuta $DIN[71] Verificare Contatore elementi! Possibile Collisione nel RACK!
+2212111;4;PWS1 Fault 476 Alimentatore master: Sensore di prossimit… _Ricevitore
+2214565;2;<robot> connected
+2214565;10;<NJ4_R2P> not connected
+2213885;2;<GL_SYS6000_2> connected
+2213885;2;<GL_VISION_2> connected
+2212111;4;PWS1 Fault 370 Alimentatore master: La slitta caricatore1 non ha ragg
+2212111;4;PWS1 Fault 75 Processo di rivettatura: Circuito di protezione o arres
+2212894;2;<BC_129> connected
+2214565;2;<NJ4_R2P> connected
+2213885;4;Arm 1 jog keys combination not allowed
+2214565;10;Axis 6 Arm 1 collision detected
+2213369;4;PWS1 Fault 195 SIC: Circuito di protezione durante l_inserimento del 
+2213487;4;Gripper time-out 2, part present 1 not present $DIN[ 101]= OFF
+2213487;8;Application package 1 not included during dressing
+2213885;2;<GL_SYS6000_1> connected
+2213885;8;SPEED IS NOT 100% - PUT 100%!
+2213487;10;Axis 6 Arm 1 collision detected
+2213487;10;Axis 8 Arm 1 collision detected
+2212111;4;PWS1 Fault 195 SIC: Circuito di protezione durante l_inserimento del 
+2214565;10;Axis 8 Arm 1 tolerance HOLD unobtainable
+2213885;2;<ST020R01> connected
+2213885;10;<GL_VISION_1> not connected
+2214565;2;<PLC_SAFELOGIC> connected
+2214565;2;<SDM> connected
+2214565;2;<BC_129> connected
+2214565;8;PLC_SAFELOGIC has 234 input bytes instead of 200
+2213885;11;Axis 1 Arm 1  - 6048:axis braking, position error too high
+2213885;11;Axis 2 Arm 1  - 6048:axis braking, position error too high
+2213885;4;Gripper time-out 2, part present 2 not present $DIN[ 76]= OFF
+2213487;4;P00PLX030R01(2536): mtn line 2535 has err 37146
+2213487;4;Tracking not possible
+2213885;2;<SW_BOSCH232_1> connected
+2213885;10;<GL_VISION_2> not connected
+2213885;10;<GL_SYS6000_2> not connected
+2214565;11;Axis 8 Arm 1 following error out of range
+2214565;10;Axis 3 Arm 1 collision detected
+2214565;2;TP Ethernet cable disconnected
+2214565;2;TP Ethernet cable connected
+2213885;11;Axis 8 Arm 1  drive error (0)
+2213885;2;<TS_1_4> connected
+2213885;2;<TS_2_5> connected
+2213885;11;Axis 1 Arm 1 motion under no servo control
+2213885;11;Axis 1 Arm 1  - 6052(3,4):short circuit in motor phase
+2213369;4;PWS1 Fault 75 Processo di rivettatura: Circuito di protezione o arres
+2212894;2;TP connection successfully completed
+2213885;2;<TC_1_21> connected
+2213885;2;TP connection successfully completed
+2214565;2;SDM Battery UPS charged - $SDI[117]
+2212894;2;<SDM> connected
+2212111;2;<RI_ERC_1_42> connected
+2213885;2;<BC_129> connected
+2213885;2;<PLC_SAFELOGIC> connected
+2213885;2;<SDM> connected
+2213487;8;Robot NOT at HOME
+2212111;4;PWS1 Fault 204 DDC: Lunghezza rivetto misurata troppo ridotta
+2212111;8;Robot NOT at HOME
+2212894;11;Axis 2 Arm 1  - 6048:axis braking, position error too high
+2212894;11;Axis 8 Arm 1 bad interpolator target position
+2214565;8;Arm 1 position out of tolerance
+2214565;2;Manual reboot of TP detected
+2214565;2;Restart after Restart Cold
+2214565;2;Restart Cold in progress
+2214565;4;RoboSAFE - Cat 0 STOP
+2212894;11;Axis 5 Arm 1  - 6048:axis braking, position error too high
+2212111;2;<TC_1_21> connected
+2213487;10;Current too high in PROG (programming)
+2213487;2;<SW_BOSCH232_1> connected
+2213487;2;<TC_1_21> connected
+2213487;2;<TS_1_04> connected
+2213487;2;<TS_2_05> connected
+2213369;2;<RI_ERC_1_42> connected
+2212111;4;Spindle in unknown position, waiting for $IN[104] = True
+2212111;4;PWS1 Fault 189 SIC: Arresto d_emergenza prima della misura dello spes
+2212894;11;Axis 3 Arm 1  - 6048:axis braking, position error too high
+2214565;4;RS - Safe position diagnostic error (Safe Turn-set required 0x3F)
+2213885;11;Axis 8 Arm 1  drive error (6061)
+2214565;2;KVC Timeout
+2212111;4;PWS1 Fault 141 Errore regolatore F05: Sottotensione
+2212111;2;<SDM> connected
+2212111;2;<ST010R02> connected
+2213369;4;PWS1 Fault 655 DDC: Massima forza corretta superata(FC)
+2213369;10;Axis 5 Arm 1 collision detected
+2213885;4;Pump 2 not ready $IN[368] = OFF
+2213885;8;No water flow package  1 Flux 1 $IN[34]:=False
+2213487;2;<ST030R01> connected
+2213487;10;Axis 4 Arm 1 collision detected
+2213885;4;P00PLX020R01(158): $FMO element is not mapped
+2213885;4;P00PLX020R01(1059): 1st idx 0 limit 4
+2213487;11;Axis 1 Arm 1  - 6048:axis braking, position error too high
+2213487;4;Program Code Out of Range
+2212111;2;<BC_129> connected
+2212111;2;<TS_1_04> connected
+2212111;4;PWS1 Fault 6 Processo di rivettatura: Timeout dati di misura
+2212111;2;TP connection successfully completed
+2212111;4;Spindle not in home position, waiting for $IN[105] = True
+2212894;11;Axis 6 Arm 1  - 6048:axis braking, position error too high
+2212894;11;ACP node 16  not connected
+2212894;11;ACP node 16 connected
+2212894;2;SDM Battery UPS charged - $SDI[117]
+2213369;4;P00PLX010R01(171): no such condition
+2214565;10;Axis 5 Arm 1 collision detected
+2214565;4;Arm 1 drive not ready for activation (sts:2)
+2213885;2;Restart Cold in progress
+2213885;2;Restart after Restart Cold
+2212111;4;Stroke end axis 3+
+2212111;8;Arm 1 bad operation with pending motion
+2213487;11;Axis 3 Arm 1  - 6048:axis braking, position error too high
+2213487;11;Axis 6 Arm 1  - 6048:axis braking, position error too high
+2213369;2;<ST010R01> connected
+2213369;2;<TC_1_21> connected
+2213487;10;Axis 1 Arm 1 collision detected
+2213885;4;Gripper time-out 1, part present 1 not present $DIN[ 57]= OFF
+2213885;8;Water flow missing during tip dressing
+2213487;2;Axis 1 Arm 1  drive warning (41031)
+2213487;8;Timeout end of welding timer  1
+2213487;11;Axis 2 Arm 1  - 6048:axis braking, position error too high
+2212111;4;PWS1 Fault 213 DDC: La curva di rivettatura ? pi? lunga della curva d
+2213369;4;PWS1 Fault 212 DDC: Corsa di punzonatura misurata troppo grande
+2213369;4;PWS1 Fault 189 SIC: Arresto d_emergenza prima della misura dello spes
+2212894;8;No water flow package  1 Flux 1 $IN[34]:=False
+2212894;10;<BC_129> not connected
+2212894;2;Board 1 - 7215:error in power supply phases
+2214565;10;Axis 2 Arm 1 - Enabling not present
+2214565;10;Axis 3 Arm 1 - Enabling not present
+2214565;10;Axis 4 Arm 1 - Enabling not present
+2214565;10;Axis 5 Arm 1 - Enabling not present
+2214565;10;Axis 6 Arm 1 - Enabling not present
+2214565;10;Axis 7 Arm 1 - Enabling not present
+2214565;10;Axis 8 Arm 1 - Enabling not present
+2214565;10;Axis 9 Arm 1 - Enabling not present
+2214565;10;Arm 1 error upon DRIVE ON
+2214565;2;Board 1 - 7215:error in power supply phases
+2214565;10;Axis 1 Arm 1 - Enabling not present
+2213885;10;<GL_SYS6000_1> not connected
+2214565;4;main(144): bad LUN access
+2212894;2;Board 1 - 7211:DC bus: Voltage drop - check the power line
+2212894;10;Current too high in PROG (programming)
+2213369;2;SDM Battery UPS charged - $SDI[117]
+2212894;2;Restart after power failure
+2212894;2;Power failure in progress
+2212111;4;PWS1 Fault 216 DDC: L_iniziatore di prossimit? _Rivetto nel ricevitor
+2212111;4;PWS1 Fault 172 Regolatore: Errore durante la corsa in posizione base
+2213369;2;TP connection successfully completed
+2213369;2;<TS_1_04> connected
+2213369;2;<SDM> connected
+2213369;2;<BC_129> connected
+2213369;10;<ST010R01> not connected
+2213487;11;Axis 3 Arm 1  drive error (38006)
+2213487;10;Axis 5 Arm 1 I2T triggered
+2213487;11;Axis 1 Arm 1  drive error (0)
+2213487;10;Axis 5 Arm 1 collision detected
+2213885;4;Pump 1 fault temperature $IN[365] = OFF
+2213885;2;SDM Battery UPS charged - $SDI[117]
+2213487;2;Axis 1 Arm 1  drive warning (0)
+2213487;2;TP connection successfully completed
+2213885;4;Dispensing system 2 not ready for application $IN[324]= OFF
+2213369;2;Restart Cold in progress
+2213369;2;Restart after Restart Cold
+2213369;10;Axis 3 Arm 1 collision detected
+2213487;10;<SW_BOSCH232_1> not connected
+2213487;8;Cover Gun  NOT Closed
+2213487;2;<BC_129> connected
+2213487;2;<PLC_SAFELOGIC> connected
+2213487;2;<SDM> connected
+2212111;10;<ST010R02> not connected
+2212894;2;Restart after Restart Cold
+2212894;2;Restart Cold in progress
+2213369;4;PWS1 Fault 192 SIC: Arresto d_emergenza durante la corsa di ritorno
+2212894;4;TCP_write_A(53): bad LUN access
+2212894;11;Axis 5 Arm 1 following error out of range
+2214565;2;RS - Axis 3 Arm 1 (29004) diagnostic data C3: 0 - C1: -764240
+2214565;2;RS - Axis 4 Arm 1 (29004) diagnostic data C3: 0 - C1: -256997
+2214565;2;RS - Axis 5 Arm 1 (29004) diagnostic data C3: 0 - C1: -631343
+2214565;2;RS - Axis 6 Arm 1 (29004) diagnostic data C3: 0 - C1: -272961
+2214565;10;Timeout in drives activation
+2214565;2;RS - Axis 1 Arm 1 (29004) diagnostic data C3: 0 - C1: -566539
+2214565;2;RS - Axis 2 Arm 1 (29004) diagnostic data C3: 0 - C1: -309579
+2213885;11;Axis 8 Arm 1  - 6057:position loop control, error on encoder
+2214565;10;Profibus: no devices on the net
+2214565;11;Axis 8 Arm 1  - 6048:axis braking, position error too high
+2214565;2;Board 1 - 7211:DC bus: Voltage drop - check the power line
+2214565;2;Power failure in progress
+2214565;2;Restart after power failure
+2213885;11;Axis 2 Arm 1  - 6052(3,4):short circuit in motor phase
+2214565;10;Timeout DRIVE-ON (phase:07)
+2214565;2;Safe Logic reboot in progress...
+2214565;2;Safe Logic reboot completed
+2212894;10;Axis 1 Arm 1 I2T triggered
+2212894;2;Power failure recovery completed
+2212894;10;Axis 8 Arm 1 collision detected
+2212894;11;Axis 5 Arm 1  drive error (38006)
+2212894;2;Axis 6 Arm 1  drive warning (0)
+2212894;2;Axis 6 Arm 1  drive warning (38006)
+2212111;4;Timeout end of riveting, waiting for $IN[101] = True
+2212111;4;PWS1 Fault 139 Errore regolatore F03: Ritardo di posizionamento
+2212111;2;SDM Battery UPS charged - $SDI[117]
+2213487;10;<TC_1_21> not connected
+2213487;10;Profibus: no devices on the net
+2213487;2;SDM 8A power overload V24 I/O-SAFE - $SDI[113]
+2213487;4;Attention: tool not on flange $IN[423] = OFF.Bring the system in T1
+2213369;4;PWS1 Fault unknown: 0
+2213487;10;Axis 4 Arm 1 tolerance HOLD unobtainable
+2213885;4;Pump 1 fault general alarm $IN[366] = ON
+2213885;4;Called routine Vision_end without calling then routine vision_prepara
+2213885;4;Live bit system  1 NOT ok
+2213885;4;P00PLX020R01(400): 1st idx 0 limit 4
+2213487;11;Axis 8 Arm 1 bad interpolator target position
+2213487;11;Axis 1 Arm 1  drive error (9030)
+2213487;10;Axis 8 Arm 1 I2T triggered
+2213487;2;Board 1 - 7215:error in power supply phases
+2213487;4;Gripper time-out 1,sequence 1 Not open $DIN[ 55]= OFF
+2213487;8;SDM absence of power V24 I/O - $SDI[111]
+2213487;10;SDM 8A power overload V24 I/O-SAFE - $SDI[113]
+2212111;4;PWS1 Fault 192 SIC: Arresto d_emergenza durante la corsa di ritorno
+2212111;4;PWS1 Fault 209 DDC: La curva di rivettatura giace al di sotto della c
+2212111;10;<TC_1_21> not connected
+2212111;10;<RI_ERC_1_42> not connected
+2212111;2;Restart Cold in progress
+2212111;2;Restart after Restart Cold
+2212111;2;Board 1 - 7215:error in power supply phases
+2212894;2;Axis 3 Arm 1  drive warning (0)
+2212894;2;Axis 3 Arm 1  drive warning (38006)
+2212894;10;Axis 5 Arm 1 collision detected
+2212894;4;Power Source 1 not ready for start riveting, waiting for $IN[103] = True
+2212894;4;Timeout input magazine filling completed, waiting for $IN[115] = True
+2212894;11;Axis 1 Arm 1  - 6048:axis braking, position error too high
+2212894;4;PWS1 Fault 476 Alimentatore master: Sensore di prossimit… _Ricevitore
+2214565;4;main(144): READ/Filer error 33282
+2214565;10;<robot> not connected
+2213885;11;Axis 8 Arm 1  - 6052(3,4):short circuit in motor phase
+2213885;11;Axis 3 Arm 1  drive error (38006)
+2213885;11;Axis 2 Arm 1 motion under no servo control
+2213885;11;Axis 8 Arm 1  - 7032/31:Resolver - not powered
+2213885;11;Axis 3 Arm 1  - 6048:axis braking, position error too high
+2213885;11;Axis 4 Arm 1  - 6048:axis braking, position error too high
+2213885;11;Axis 5 Arm 1  - 6048:axis braking, position error too high
+2213885;11;Axis 6 Arm 1  - 6048:axis braking, position error too high
+2213885;10;<ST020R01> not connected
+2214565;2;Power failure recovery completed
+2213885;11;Axis 4 Arm 1  drive error (38006)
+2213885;11;Axis 5 Arm 1  drive error (38006)
+2213885;11;Axis 6 Arm 1  drive error (38006)
+2214565;11;Axis 6 Arm 1  drive error (0)
+2214565;11;Axis 4 Arm 1  drive error (0)
+2214565;11;Axis 8 Arm 1  drive error (0)
+2214565;11;Axis 8 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 9 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 1 Arm 1  drive error (0)
+2214565;11;Axis 2 Arm 1  drive error (0)
+2214565;11;Axis 3 Arm 1  drive error (0)
+2214565;11;Axis 1 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 2 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 3 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 4 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 5 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 6 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 7 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2214565;11;Axis 9 Arm 1  drive error (0)
+2214565;11;Axis 5 Arm 1  drive error (0)
+2214565;11;Axis 7 Arm 1  drive error (0)
+2213885;10;Axis 1 Arm 1 collision detected
+2214565;10;Remote signals are disabled
+2213885;10;System error Pars 1330794564 24939852 2573 5408
+2213885;10;System error Pars 1330794564 24939852 2573 5409
+2213885;2;Board 1 - 7211:DC bus: Voltage drop - check the power line
+2214565;4;check_bead(111): bad LUN access
+2214565;4;Stroke end axis 2-
+2214565;2;RS - Axis 5 Arm 1 (29004) diagnostic data C3: 0 - C1: -427748
+2214565;2;RS - Axis 6 Arm 1 (29004) diagnostic data C3: 0 - C1: 184958
+2214565;2;RS - Axis 4 Arm 1 (29004) diagnostic data C3: 0 - C1: 258347
+2214565;2;RS - Axis 3 Arm 1 (29004) diagnostic data C3: 0 - C1: -794887
+2214565;2;RS - Axis 2 Arm 1 (29004) diagnostic data C3: 0 - C1: -92262
+2214565;2;RS - Axis 1 Arm 1 (29004) diagnostic data C3: 0 - C1: -800300
+2212894;11;Axis 4 Arm 1  - 6048:axis braking, position error too high
+2212894;4;PWS1 Fault 219 DDC: Segnale di misura della forza insufficiente
+2212894;4;PWS1 Fault 374 Alimentatore master: La slitta caricatore1 non ha ragg
+2212894;4;NVRAM not consistent
+2212111;2;Power failure in progress
+2213369;4;P00PLX010R01(136): no such condition
+2213369;8;Robot NOT at HOME
+2212894;2;Axis 4 Arm 1  drive warning (0)
+2212894;2;Axis 4 Arm 1  drive warning (38006)
+2212894;11;Axis 3 Arm 1  drive error (38006)
+2212111;2;Board 1 - 7211:DC bus: Voltage drop - check the power line
+2212111;10;Axis 3 Arm 1 collision detected
+2212111;10;Axis 5 Arm 1 collision detected
+2212111;4;PWS1 Fault 28 Avvio rivettatura non resettato
+2212111;4;TOOL IN flange IN fault, $IN[423]   = OFF
+2213487;11;Axis 1 Arm 1  - 6052(3,4):short circuit in motor phase
+2213487;10;<GRP_1_55> not connected
+2213487;10;RACK[2] FTC di sicurezza Intervenuta $DIN[103] Verificare Contatore elementi! Possibile Collisione nel RACK!
+2213487;8;Power contactor  1 of the package  1 is not open.Waiting $IN[49] = True
+2213369;4;PWS1 Fault 218 DDC: Spessore lamiera misurato troppo grande
+2213369;10;<RI_ERC_1_42> not connected
+2213487;11;Axis 5 Arm 1  - 6048:axis braking, position error too high
+2213487;11;Axis 1 Arm 1  drive error (38006)
+2213487;2;Board 1 - 7211:DC bus: Voltage drop - check the power line
+2213487;11;Axis 2 Arm 1  drive error (38006)
+2213487;11;Axis 6 Arm 1  drive error (38006)
+2213487;2;Power failure in progress
+2213885;4;RoboSAFE - Cat 0 STOP
+2213885;4;RS - Safe position diagnostic error (Safe Turn-set required 0x3F)
+2213885;8; MAIN Program NOT active
+2213885;4;Attention: tool not on flange $IN[423] = OFF.Bring the system in T1
+2213885;2;RS - Axis 1 Arm 1 (29004) diagnostic data C3: 30150000 - C1: 459390
+2213885;2;RS - Axis 2 Arm 1 (29004) diagnostic data C3: 30150000 - C1: -298252
+2213885;2;RS - Axis 3 Arm 1 (29004) diagnostic data C3: 30150000 - C1: -745659
+2213885;2;RS - Axis 4 Arm 1 (29004) diagnostic data C3: 30150000 - C1: 578444
+2213885;2;RS - Axis 5 Arm 1 (29004) diagnostic data C3: 30150000 - C1: 520983
+2213885;2;RS - Axis 6 Arm 1 (29004) diagnostic data C3: 30150000 - C1: 620733
+2213885;4;CYCLE finished already ON BEFORE the application
+2213885;4;The doser 2 has not completed the purgin procedure $IN[295] = OFF
+2213885;4;Fault of Dispensing system 1: CYCLE end $IN[309]= OFF
+2213885;4;Live bit system  2 NOT ok
+2213885;2;Shutdown recovery completed
+2213487;10;Axis 4 Arm 1 persistent high current 
+2213487;4;Arm 1 jog keys combination not allowed
+2213487;2;Restart after power failure
+2213487;11;Axis 5 Arm 1  drive error (38006)
+2213369;4;PWS1 Fault 370 Alimentatore master: La slitta caricatore1 non ha ragg
+2213369;4;PWS1 Fault 633 Attuatore 1: Manutenzione tubo caricatore 1 richiesta
+2213487;4;Timer  1 Alarm: No electrode contact (115-22)
+2213487;4;SmartSpot: routine spot_init not executed
+2213487;10;Power contactor of the tip dresser is not open. Waiting $IN[82] = True
+2213487;8;Cover Gun  NOT Opened
+2213487;2;<GRP_1_54> connected
+2213487;2;<GRP_1_55> connected
+2213487;10;<ST030R01> not connected
+2213487;10;<TS_1_04> not connected
+2213487;10;<TS_2_05> not connected
+2213487;11;Axis 4 Arm 1  - 6048:axis braking, position error too high
+2213487;2;SDM Battery UPS charged - $SDI[117]
+2213487;2;Power failure recovery completed
+2213487;4;Gun  1 - electrodes wear out of range - measured: 21.6 mm - limit: 15.0 mm
+2212111;4;TOOL not IN flange,  $IN[423]   = OFF
+2212111;4;Timer  1 Alarm: No electrode contact (115-22)
+2212111;2;Power failure recovery completed
+2212111;4;P00PLX010R02(1172): real not initialized
+2212111;4;NVRAM not consistent
+2212111;2;Restart after power failure
+2212111;4;PWS1 Fault unknown: 0
+2212111;4;PWS1 Fault 7 Processo di rivettatura: Rivetto nel ricevitore dopo pro
+2212111;11;Axis 3 Arm 1  - 6048:axis braking, position error too high
+2212894;11;Axis 2 Arm 1  drive error (38006)
+2212894;10;Axis 1 Arm 1 tolerance HOLD unobtainable
+2212894;2;Axis 2 Arm 1  drive warning (0)
+2212894;2;Axis 2 Arm 1  drive warning (38006)
+2213369;4;P00PLX010R01(211): no such condition
+2213369;4;P00PLX010R01(223): no such condition
+2213369;4;NVRAM not consistent
+2212894;2;TP Ethernet cable disconnected
+2212894;2;TP Ethernet cable connected
+2212894;4;Timer  1 Alarm: (80)
+2212894;4;Timer  1 Alarm: No electrode contact (115-22)
+2212894;11;Safety gate
+2212894;4;PWS1 Fault 460 Alimentatore master: La chiusura del caricatore non Š 
+2212894;4;Program Code Out of Range
+2212894;11;Axis 2 Arm 1  - 6052(3,4):short circuit in motor phase
+2212894;4;PWS1 Fault 193 SIC: Protective circuit prior to plate thickness measu
+2214565;4;RS - RECOVERY MODE still active
+2214565;2;OST CAMERA INIT PROBLEM
+2214565;2;WRONG REPLY INIT CAMERA OST
+2214565;2;WRONG REPLY MISURE OXFORD
+2214565;2;TIMEOUT INIZIALIZZAZIONE CAMERA
+2214565;2;TIMEOUT MISURA OXFORD
+2214565;4;GetMoni(12828): integer not initialized
+2214565;4;main(331): routine not loaded
+2214565;2;Entering SAFE recovery mode
+2214565;2;Entering SAFE normal mode
+2214565;2;Safe recovery mode command
+2214565;2;Safe normal mode command
+2213885;11;Axis 1 Arm 1  - 7015:Encoder - timeout error
+2213885;11;Axis 2 Arm 1  - 7015:Encoder - timeout error
+2213885;11;Axis 3 Arm 1  - 7015:Encoder - timeout error
+2213885;11;Axis 4 Arm 1  - 7015:Encoder - timeout error
+2213885;11;Axis 5 Arm 1  - 7015:Encoder - timeout error
+2213885;11;Axis 6 Arm 1  - 7015:Encoder - timeout error
+2213885;11;Axis 1 Arm 1  drive error (0)
+2213885;11;Axis 2 Arm 1  drive error (0)
+2213885;11;Axis 3 Arm 1  drive error (0)
+2213885;11;Axis 4 Arm 1  drive error (0)
+2214565;2;Shutdown recovery completed
+2214565;11;Safety gate
+2213885;2;Restart after Shutdown command
+2213885;2;Shutdown in progress
+2213885;2;Power failure in progress
+2213885;11;Axis 6 Arm 1  drive error (0)
+2213885;11;Axis 5 Arm 1  drive error (0)
+2214565;10;Axis 8 Arm 1 tolerance unobtainable
+2214565;10;Axis 4 Arm 1 collision detected
+2214565;2;Shutdown in progress
+2214565;2;Restart after Shutdown command
+2214565;11;Axis 2 Arm 1  - 6048:axis braking, position error too high
+2213885;2;Restart after power failure
+2213885;11;Axis 8 Arm 1 bad interpolator target position
+2213885;2;Board 1 - 7215:error in power supply phases
+2214565;4;Pos out of range
+2214565;4;Bad circular trajectory
+2214565;2;RS - Axis 3 Arm 1 (29004) diagnostic data C3: 30010000 - C1: 0
+2214565;2;RS - Axis 4 Arm 1 (29004) diagnostic data C3: 30010000 - C1: 0
+2214565;4;main(127): mtn line 126 has err 36998
+2212894;10;Axis 5 Arm 1 I2T triggered
+2212894;11;Axis 1 Arm 1  drive error (38006)
+2212894;4;P00PLX030R01(2536): mtn line 2535 has err 37146
+2212894;4;Filling station not ready for docking, waiting for $IN[110] = False
+2212894;4;Tracking not possible
+2212894;4;RH_Monitor(93): DV_CNTRL operation error 11294
+2212894;8;Robot NOT at HOME
+2212894;2;Shutdown recovery completed
+2212894;4;Timer  1 Alarm: No welding current (99-10)
+2212894;2;KVC connection time expired
+2212111;2;Forced Restart Cold
+2212894;2;Manual reboot of TP detected
+2213369;12;IoT_updater(0): ISR prog not active
+2213369;4;P00PLX010R01(206): no such condition
+2213369;4;P00PLX010R01(197): no such condition
+2213369;4;PWS1 Fault 194 SIC: Circuito di protezione a monte della misura della
+2212894;2;Axis 5 Arm 1  drive warning (0)
+2212894;2;Axis 5 Arm 1  drive warning (38006)
+2212894;10;Axis 3 Arm 1 collision detected
+2212894;2;Shutdown in progress
+2212894;2;Restart after Shutdown command
+2212111;11;Axis 5 Arm 1  - 6048:axis braking, position error too high
+2212111;4;PWS1 Fault 616 Avvio rivettatura durante il circuito di protezione o 
+2212111;4;PWS1 Fault 624 SIC: La curva di riferimento contiene valori non valid
+2212111;10;<SDM> not connected
+2212111;2;Shutdown in progress
+2212111;10;Axis 2 Arm 1 collision detected
+2212111;11;Axis 4 Arm 1  drive error (0)
+2212111;11;Axis 6 Arm 1  drive error (0)
+2212111;4;Arm 1 drive not ready for activation (sts:2)
+2212111;11;Axis 4 Arm 1  - 7014:Encoder - CRC error on the encoder line
+2212111;8;Axis 4 Arm 1 motion after last reset (1)
+2212111;10;Axis 5 Arm 1 I2T triggered
+2212111;11;Axis 2 Arm 1  drive error (0)
+2212111;11;Axis 3 Arm 1  drive error (0)
+2212111;4;Tracking not possible
+2212111;4;P00PLX010R02(120): no such condition
+2212111;12;RiD_pwrsrc(0): ISR prog not active
+2212111;4;P00PLX030R01(2536): mtn line 2535 has err 37146
+2212111;10;Robot local stop - $SDI[120]
+2212111;10;SDM fault ERM1 module -$SDI[91]
+2212111;11;SDM diagnostic - $SDI[10] (sts : 0xDB)
+2212111;10;Timeout in drives activation
+2212111;4;Timer  1 Alarm: No welding current (99-10)
+2212111;4;Timer  1 Alarm: (80)
+2212111;4;PWS1 Fault 230 DDC: Errore di calcolo interno nella costante elastica
+2212111;4;PWS1 Fault 223 DDC: Funzione interrotta
+2213487;4;Gun  1 - electrodes wear out of range - measured: 21.8 mm - limit: 15.0 mm
+2213487;4;Attention: tool not locked $IN[421] = OFF.Bring the system in T1
+2213487;8;SDM absence of power V24SAFE in DriveOn - $SDI[109]
+2213487;11;Safety gate
+2213487;8; MAIN Program NOT active
+2213487;11;Axis 2 Arm 1  - 6052(3,4):short circuit in motor phase
+2213487;11;Axis 1 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2213487;11;Axis 2 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2213487;11;Axis 3 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2213487;11;Axis 4 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2213487;11;Axis 5 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2213487;11;Axis 6 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2213487;11;Axis 8 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2213487;8;Dresser main switch open $IN[81]:=False
+2213487;4;Timer  1 Alarm: (94-22)
+2213487;4;Timer  1 Alarm: (94-3)
+2213487;8;Power contactor  1 of the package  1, incorrect command : $OUT[33] = False  $IN[49] = False
+2213487;8;No air pressure package  1 $IN[ 33]= False
+2213369;10;Axis 2 Arm 1 collision detected
+2213369;4;PWS1 Fault 7 Processo di rivettatura: Rivetto nel ricevitore dopo pro
+2213369;4;PWS1 Fault 72 Timeout traslazione dell_ Attuatore in posizione base
+2213369;10;<TC_1_21> not connected
+2213369;2;Board 1 - 7215:error in power supply phases
+2213487;11;Axis 6 Arm 1  drive error (0)
+2213487;11;Axis 8 Arm 1  drive error (0)
+2213487;11;Axis 4 Arm 1  drive error (0)
+2213487;11;Axis 4 Arm 1  drive error (38006)
+2213487;11;Axis 5 Arm 1  drive error (0)
+2213487;2;Axis 3 Arm 1  drive warning (0)
+2213487;2;Axis 3 Arm 1  drive warning (38006)
+2213487;11;Axis 3 Arm 1  drive error (0)
+2213487;11;Axis 2 Arm 1  drive error (0)
+2213487;10;Axis 4 Arm 1 I2T triggered
+2213487;2;Restart Cold in progress
+2213885;4;Timer  1 Alarm: Electrode pick-up (115-24)
+2213885;4;PROGRAM echo fault of Dispensing system 1. Sent program 1 received program 0
+2213487;2;Restart after Restart Cold
+2213885;12;System error
+2213885;12;GlD_doser(0): ISR prog not active
+2213885;12;GlD_pump(0): ISR prog not active
+2213885;12;GlD_system(0): ISR prog not active
+2213885;12;Err(s) in last operation
+2213885;8;Robot NOT at HOME
+2213885;4;StateSafeView(411): VP2 error: 10880
+2213885;4;$GEN_OVR less than 100%
+2213885;4;Command not performed : ARM in use
+2213885;14;Aborted task COP0
+2213885;2;Power failure recovery completed
+2213885;2;Safe Logic reboot in progress...
+2213885;2;Safe Logic reboot completed
+2213885;4;ALARM code received from system 2 ERROR 1 from $FMI[103]
+2213885;4;ALARM code received from system 1 ERROR 2 from $FMI[95]
+2213885;4;Gripper time-out 1, part present 2 not present $DIN[ 60]= OFF
+2213885;4;Fault of sub-program echo of Dispensing system 1. Sent sub-program 1 received sub-program 12
+2213885;4;CONDITION not defined First fall up glue_prepara
+2213885;4;System has not yet finished measuring procedure $IN[392] = OFF
+2213885;4;Pump 1 not ready $IN[362] = OFF
+2213885;8;Error 37054 no known prog 2
+2213885;8;Error 37054 no known prog 4
+2213885;14;Aborted task $B2A
+2213885;4;Restore non avvenuto correttamente dati non salvati
+2213885;4;StateSafeView(410): VP2 error: 10880
+2213885;2;<GRP_1_54> connected
+2213885;2;<GRP_2_55> connected
+2213885;4;P00PLX020R01(157): $FMI is read-only
+2213885;4;Bad circular trajectory
+2213885;4;P00PLX020R01(265): 1st idx 0 limit 4
+2213885;4;RS - RECOVERY MODE still active
+2213885;4;P00PLX020R01(372): mtn line 368 has err 36998
+2213487;2;Restart after Shutdown command
+2213487;2;Forced Restart Cold
+2213487;2;Power failure recovery failed
+2213885;8;Power contactor  1 of the package  1 is not open.Waiting $IN[49] = True
+2213885;8;Power contactor  1 of the package  1, incorrect command : $OUT[33] = False  $IN[49] = False
+2213885;8;No air pressure package  1 $IN[ 33]= False
+2213885;4;PROGRAM echo fault of Dispensing system 2. Sent program 2 received program 1
+2213885;4;Gripper time-out 1, part present 2 not present $DIN[ 57]= OFF
+2213885;4;The doser 1 is not full $IN[289] = OFF
+2213885;4;The doser 2 is not full $IN[294] = OFF
+2213885;4;Dispensing system 1 not ready for application $IN[311]= OFF
+2213487;2;Shutdown in progress
+2213487;11;Axis 4 Arm 1 following error out of range
+2213487;11;Axis 2 Arm 1 motion under no servo control
+2213487;10;Axis 6 Arm 1 I2T triggered
+2213487;11;Axis 1 Arm 1  drive error (9050)
+2213487;2;Axis 6 Arm 1  drive warning (0)
+2213487;2;Axis 6 Arm 1  drive warning (41031)
+2213487;2;Axis 1 Arm 1  drive warning (41051)
+2213487;2;Axis 2 Arm 1  drive warning (0)
+2213487;2;Axis 2 Arm 1  drive warning (38006)
+2213369;2;Axis 2 Arm 1  drive warning (0)
+2213369;2;Axis 2 Arm 1  drive warning (38006)
+2213369;10;Axis 1 Arm 1 tolerance HOLD unobtainable
+2213369;10;<RI_ERC_1_42> unstable connection
+2213369;11;Axis 1 Arm 1  - 6048:axis braking, position error too high
+2213369;11;Axis 2 Arm 1  - 6048:axis braking, position error too high
+2213369;11;Axis 3 Arm 1  - 6048:axis braking, position error too high
+2213369;11;Axis 1 Arm 1  - 6052(3,4):short circuit in motor phase
+2213369;4;PWS1 Fault 230 DDC: Errore di calcolo interno nella costante elastica
+2213369;4;PWS1 Fault 28 Avvio rivettatura non resettato
+2213369;4;PWS1 Fault 29 Avvio rivettatura durante la modalit… di test
+2213369;2;Restart after Shutdown command
+2213369;2;Shutdown in progress
+2213487;8;Mismatch  1 weld yes/no timer state/command
+2213487;8;No water flow package  1 Flux 1 $IN[34]:=True
+2213487;8;Water flow present without command pack  1 Flux 1 $IN[34]:=False
+2213487;4;Timer  1 Alarm: (94-7)
+2213487;4;Timer  1 Alarm: Abort measurement circuit Fault (99-167)
+2213487;4;Timer  1 Alarm: (94-21)
+2213487;4;Gripper time-out 1,sequence 1 Not open $DIN[ 57]= OFF
+2213487;11;Axis 6 Arm 1  - 6052(3,4):short circuit in motor phase
+2213487;11;Arm 1 timeout on axes enabling (sts:0x1-0xbe)
+2213487;4;Arm 1 drive not ready for activation (sts:2)
+2213487;4;Arm 1 drive not disabled (sts:2)
+2213487;4;0: Il codice della fault è fuori dal range
+2213487;4;NVRAM not consistent
+2213487;4;de_sysex(332): SYS_CALL error 22637
+2213487;4;P00PLX030R01(73): mtn line 71 has err 37004
+2213487;4;P00PLX030R01(81): mtn line 79 has err 36994
+2213487;4;Pos out of range
+2213487;4;Stroke end axis 2+
+2213487;12;Err(s) in last operation
+2213487;8;Error 37054 no known prog 2
+2213487;12;System error
+2213487;12;CDetect(0): ISR prog not active
+2213487;12;lrobot(0): ISR prog not active
+2213487;12;SwH_Abox(0): ISR prog not active
+2213487;10;Timeout in drives activation
+2213487;10;Timeout DRIVE-ON (phase:07)
+2213487;13;Memory error: COP0 7745440 7763456
+2213487;2;Shutdown recovery completed
+2213487;14;Aborted task COP0
+2213487;4;Command not performed : ARM in use
+2213487;4;TOOL not clamped $IN[422] = ON
+2213487;4;Gripper time-out 2, part present 2 not present $DIN[ 102]= OFF
+2212111;4;PWS1 Fault 212 DDC: Corsa di punzonatura misurata troppo grande
+2212111;4;Spindle still disconnected
+2212111;4;Timer  1 Alarm: (94-3)
+2212111;4;Timer  1 Alarm: Low Current (99-20)
+2212111;4;Attention: tool not on flange $IN[423] = OFF.Bring the system in T1
+2212111;4;Attention: tool not locked $IN[421] = OFF.Bring the system in T1
+2212111;14;Aborted task COP0
+2212111;14;Aborted task INTL
+2212111;13;Memory error: COP0 7745440 7763456
+2212111;13;Memory error: INTL 7745440 96029348
+2212111;10;SDM configuration  TP Wired/Wireless not OK - $SDI[82]
+2212111;11;The system state manager is receiving too many events
+2212111;2;Shutdown recovery completed
+2212111;12;lrobot(0): ISR prog not active
+2212111;4;P00PLX010R02(118): no such condition
+2212111;2;SL1.IF2.ST129: config 3 update of extension card 1 succeeded - ErrorNumber is 0x000051F4 
+2212111;4;TcD_tchange(987): $TIMER overflow
+2212111;4;Program Code Out of Range
+2212111;4;Power Source 1 not ready, waiting for $IN[102] = True
+2212111;11;Axis 3 Arm 1  drive error (38006)
+2212111;11;Axis 2 Arm 1  drive error (38006)
+2212111;11;Axis 4 Arm 1 motion under no servo control
+2212111;11;Axis 1 Arm 1  drive error (0)
+2212111;4;Board 1 - 7215:error in power supply phases
+2212111;8;Axis 4 Arm 1 motion after last reset (2)
+2212111;8;Axis 5 Arm 1 motion after last reset (1)
+2212111;8;Axis 6 Arm 1 motion after last reset (1)
+2212111;10;Axis 4 Arm 1 DRIVE OFF for disabling the dynamic model
+2212111;11;Axis 4 Arm 1  - 5034:Encoder - homing inhibited
+2212111;11;Axis 1 Arm 1  - 6048:axis braking, position error too high
+2212111;11;Axis 4 Arm 1  - 7048:Encoder - error reading the internal memory
+2212111;11;Axis 6 Arm 1  drive error (38006)
+2212111;2;Axis 3 Arm 1  drive warning (0)
+2212111;2;Axis 3 Arm 1  drive warning (38006)
+2212111;2;Axis 4 Arm 1  drive warning (0)
+2212111;2;Axis 4 Arm 1  drive warning (39023)
+2212111;11;Axis 8 Arm 1 bad interpolator target position
+2212111;11;Axis 4 Arm 1  drive error (7014)
+2212111;11;Axis 5 Arm 1  drive error (0)
+2212111;2;Restart after Shutdown command
+2212111;2;Shutdown recovery failed
+2212111;11;Axis 4 Arm 1  flash memory of the motor cannot be handled -1 10257 1
+2212111;10;<BC_129> not connected
+2212111;11;Axis 6 Arm 1  - 6048:axis braking, position error too high
+2212111;11;Axis 1 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2212111;11;Axis 2 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2212111;11;Axis 3 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2212111;11;Axis 4 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2212111;11;Axis 5 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2212111;11;Axis 6 Arm 1  - 6058:Enable 1 not present in DRIVE ON state
+2212111;10;<TS_1_04> not connected
+2212111;10;<RI_ERC_1_42> unstable connection
+2212111;10;<TC_1_21> unstable connection
+2212111;8;Axis 1 Arm 1 motion after last reset (1)
+2212111;8;Axis 2 Arm 1 motion after last reset (1)
+2212111;8;Axis 3 Arm 1 motion after last reset (1)
+2212894;2;TP reconnection successfully completed (40s)
+2212894;2;System software update (from 2.31.010)
+2212894;10;Axis 1 Arm 1 collision detected
+2212894;2;New system software detected 2.31.013
+2212894;2;TP software update in progress (from 2.31.010 to 2.31.013)
+2212894;2;Update operation completed: Riuscito
+2212894;11;Axis 3 Arm 1  drive error (1012)
+2212894;11;Axis 4 Arm 1  drive error (1012)
+2212894;11;Axis 5 Arm 1  drive error (1012)
+2212894;11;Axis 6 Arm 1  drive error (1012)
+2212894;11;Axis 6 Arm 1  drive error (38006)
+2212894;2;Axis 1 Arm 1  drive warning (0)
+2212894;2;Axis 1 Arm 1  drive warning (38006)
+2213369;4;Power Source 1 not ready, waiting for $IN[102] = True
+2213369;4;P00PLX010R01(201): no such condition
+2213369;4;P00PLX010R01(137): no such condition
+2213369;4;P00PLX010R01(140): no such condition
+2213369;12;RiD_pwrsrc(0): ISR prog not active
+2213369;4;GetMoni(171): string not initialized
+2213369;4;Attention: tool not on flange $IN[423] = OFF.Bring the system in T1
+2213369;2;Shutdown recovery completed
+2212111;2;Power failure recovery failed
+2212894;10;System error
+2212894;4;Timer  1 Alarm: Low Current (99-20)
+2212894;10;Robot local stop - $SDI[120]
+2212894;4;P00PLX030R01(2381): mtn line 2380 has err 37163
+2212894;10;Remote signals are disabled
+2212894;4;Attention: tool not locked $IN[421] = OFF.Bring the system in T1
+2212894;4;Frame changed
+2212894;4;RH_Monitor(62): SYS_CALL error 22563
+2212894;4;TCP_write_A(52): READ/Filer error 15467
+2212894;4;TCP_write_A(52): bad trap number
+2212894;4;TCP_write_A(52): WRITE error 9
+2212894;4;PWS1 Fault 28 Avvio rivettatura non resettato
+2212894;11;Axis 2 Arm 1  drive error (1012)
+2212894;11;Axis 1 Arm 1  drive error (1012)
+2212894;4;Board 1 - 7215:error in power supply phases
+2212894;2;Axis 2 Arm 1 I2T triggered
+2212894;11;Axis 1 Arm 1  - 1022:Powerlink communication timeout
+2212894;11;Axis 2 Arm 1  - 1022:Powerlink communication timeout
+2212894;11;Axis 3 Arm 1  - 1022:Powerlink communication timeout
+2212894;11;Axis 4 Arm 1  - 1022:Powerlink communication timeout
+2212894;11;Axis 5 Arm 1  - 1022:Powerlink communication timeout
+2212894;11;Axis 6 Arm 1  - 1022:Powerlink communication timeout
+2214565;4;main(58): mtn line 56 has err 36994
+2214565;4;decking_prb_m161(159): mtn line 155 has err 36994
+2214565;2;RS - Axis 6 Arm 1 (29004) diagnostic data C3: 150000 - C1: 0
+2214565;2;RS - Axis 6 Arm 1 (29004) diagnostic data C3: 30150000 - C1: 0
+2214565;2;RS - Axis 5 Arm 1 (29004) diagnostic data C3: 150000 - C1: 0
+2214565;2;RS - Axis 5 Arm 1 (29004) diagnostic data C3: 30150000 - C1: 0
+2214565;2;RS - Axis 1 Arm 1 (29004) diagnostic data C3: 150008 - C1: -4
+2214565;2;RS - Axis 1 Arm 1 (29004) diagnostic data C3: 30150000 - C1: -4
+2214565;2;RS - Axis 2 Arm 1 (29004) diagnostic data C3: 149995 - C1: -3
+2214565;2;RS - Axis 2 Arm 1 (29004) diagnostic data C3: 30150000 - C1: -3
+2214565;11;Bad drives enabling(sts:1f7e600, Arm:0x1)
+2214565;13;Memory error: pthr 7745440 126411288
+2214565;4;RS - Safe Logic PROG state mismatch
+2214565;11;RS - Robot configuration mismatch (APC)
+2214565;10;Robot local stop - $SDI[120]
+2214565;4;Stroke end axis 2+
+2214565;4;main(185): err 36953 1 cond(s) not PURGE
+2214565;4;main(185): no such condition
+2214565;4;main(137): routine not loaded
+2214565;2;TIMEOUT RESET MISURA OXFORD
+2214565;4;Stroke end axis 7+
+2214565;4;Stroke end axis 7-
+2214565;4;main(217): Input port not mapped
+2214565;4;NVRAM not consistent
+2214565;4;main(302): EXIT CYCLE program not in a cycle
+2214565;4;main(144): READ/Filer error 15467
+2214565;2;SAFE FW acknowledge command
+2214565;2;SAFE module 2 acknowledge commnand
+2214565;2;TARGET CHECK RETURNS ERROR
+2213885;4;Board 1 - 7215:error in power supply phases
+2213885;10;<SW_BOSCH232_1> not connected
+2213885;10;<TC_1_21> not connected
+2213885;10;<TS_1_4> not connected
+2213885;10;<TS_2_5> not connected
+2213885;2;Safe recovery mode command
+2213885;2;Safe normal mode command
+2213885;2;Entering SAFE recovery mode
+2213885;2;Entering SAFE normal mode
+2213885;11;ACP node 17  not connected
+2213885;11;ACP node 18  not connected
+2213885;11;ACP node 19  not connected
+2213885;11;ACP node 20  not connected
+2213885;2;Forced Restart Cold
+2213885;2;Power failure recovery failed
+2214565;10;KVC Timeout
+2214565;14;Aborted task pthr2
+2213885;10;Axis 5 Arm 1 collision detected
+2213885;10;Axis 6 Arm 1 collision detected
+2213885;2;New system software detected 2.31.913
+2213885;2;Axis 1 Arm 1  drive warning (0)
+2213885;2;Axis 1 Arm 1  drive warning (38006)
+2213885;2;Axis 2 Arm 1  drive warning (0)
+2213885;2;Axis 2 Arm 1  drive warning (38006)
+2214565;11;Axis 4 Arm 1  - 6048:axis braking, position error too high
+2214565;11;Axis 6 Arm 1  - 6048:axis braking, position error too high
+2214565;11;Axis 7 Arm 1  - 6048:axis braking, position error too high
+2214565;8;Axis 3 Arm 1 motion after last reset (1)
+2214565;8;Axis 4 Arm 1 motion after last reset (1)
+2214565;11;Axis 1 Arm 1  - 6048:axis braking, position error too high
+2214565;11;Axis 1 Arm 1  - 6052(3,4):short circuit in motor phase
+2214565;11;Axis 2 Arm 1  - 6052(3,4):short circuit in motor phase
+2214565;11;Axis 7 Arm 1  - 6052(3,4):short circuit in motor phase
+2214565;2;TP reconnection successfully completed (3s)
+2214565;11;Axis 3 Arm 1  New drive-motor-trasductor element
+2214565;11;Axis 4 Arm 1  New drive-motor-trasductor element
+2214565;2;New system software detected 2.31.907
+2214565;2;Axis 2 Arm 1  drive warning (0)
+2214565;2;Axis 2 Arm 1  drive warning (38006)
+2214565;11;Axis 6 Arm 1  drive error (38006)
